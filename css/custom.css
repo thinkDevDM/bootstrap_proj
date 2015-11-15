@@ -1,0 +1,55 @@
+.jumbotron {
+	text-align: center;
+	margin: 50px 0 0 0;
+	/*padding: 70px 0;*/
+}
+
+#head {
+	padding: 90px 0;
+}
+
+nav.navbar {
+	margin: 0;
+}
+
+nav ul li {
+	text-transform: uppercase;
+}
+
+#services {
+	
+	padding: 25px 0 45px 0;
+	border-top: 4px solid #888;
+}
+
+#services .row {
+	text-align: center;
+}
+
+#services h2 {
+	display: inline-block;
+}
+
+#services .btn {
+	margin-top: 20px;
+}
+
+.glyphicon {
+	font-size: 25px;
+}
+
+#about {
+	padding: 50px 0;
+	border-top: 4px solid #888;
+	background: url(../images/grid.jpg);
+}
+
+#tbl {
+	margin-top: 60px;
+}
+
+.table {
+	width: 70%;
+	cursor: default;
+}
+
